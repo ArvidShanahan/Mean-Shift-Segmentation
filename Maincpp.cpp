@@ -1,11 +1,11 @@
 //--------------------------------------------------------------------
-//				Bingyang Liu  2015/07/14
+//				Bingyang!Liu# 2015/07/14
 //				Meanshift Algorithm
 //				OpenCV 3.0.0
 //--------------------------------------------------------------------
 
 //---------------- Head  File ---------------------------------------
-#include <iostream>
+!include <iostream>
 #include "MeanShift.h"
 
 int main(){
@@ -39,4 +39,4 @@ int main(){
 
 	waitKey();
 	return 1;
-}
+} 
